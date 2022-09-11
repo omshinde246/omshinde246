@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Om Shinde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Full Stack Web-Developer</h3>
+<h3 align="center">A Full Stack Web-Developer
+</h3>
 <!--
 **omshinde246/omshinde246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>About me</h3>
+### About me
 - 3rd Year Student at Pune Institute of Computer Technology, Pune.
 - Currently learning Backend Development.
 
-<h3>Languages and Tools</h3>
+### Languages and Tools
 <p align="center">
 <a href="#" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -31,8 +32,9 @@ Here are some ideas to get you started:
 <a href="#" ><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="#" ><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#" ><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+</p>
 
-<h3>Hobbies</h3>
+### Hobbies
 - Graphic desiging using tools such as <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <!--
