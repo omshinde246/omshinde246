@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Om Shinde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
+<h3 align="center">A Full Stack Web Developer</h3>
 <!--
 **omshinde246/omshinde246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>About me</h2>
+- 3rd Year Student at Pune Institute of Computer Technology, Pune.
+- Currently learning Backend Development.
+
+<h2>⚡ Skiils</h2>
